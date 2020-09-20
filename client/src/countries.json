@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "UY",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/UY/",
+    "name": "Uruguay",
+    "stats": {
+      "congregations": 151,
+      "ministers": 12109,
+      "population": 3462,
+      "ratio": 291
+    }
+  },
+  {
+    "id": "FL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/FL/",
+    "name": "Liechtenstein",
+    "stats": {
+      "congregations": 1,
+      "ministers": 91,
+      "population": 38000,
+      "ratio": 427
+    }
+  },
+  {
+    "id": "MS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MS/",
+    "name": "Montserrat",
+    "stats": {
+      "congregations": 1,
+      "ministers": 39,
+      "population": 5000,
+      "ratio": 147
+    }
+  },
+  {
+    "id": "GY",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GY/",
+    "name": "Guyana",
+    "stats": {
+      "congregations": 50,
+      "ministers": 3293,
+      "population": 783000,
+      "ratio": 248
+    }
+  },
+  {
+    "id": "BW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BW/",
+    "name": "Botswana",
+    "stats": {
+      "congregations": 47,
+      "ministers": 2251,
+      "population": 2339,
+      "ratio": 52
+    }
+  },
+  {
+    "id": "PS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PS/",
+    "name": "Palestinian Territories",
+    "stats": {
+      "congregations": 2,
+      "ministers": 63,
+      "population": 4981,
+      "ratio": 17
+    }
+  },
+  {
+    "id": "FR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/FR/",
+    "name": "France",
+    "stats": {
+      "congregations": 1610,
+      "ministers": 131078,
+      "population": 65130,
+      "ratio": 502
+    }
+  },
+  {
+    "id": "JA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/JA/",
+    "name": "Jamaica",
+    "stats": {
+      "congregations": 174,
+      "ministers": 11334,
+      "population": 2948,
+      "ratio": 266
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/tinian/",
+    "name": "Tinian",
+    "stats": {
+      "congregations": 1,
+      "ministers": 13,
+      "population": 3100,
+      "ratio": 258
+    }
+  },
+  {
+    "id": "AU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AU/",
+    "name": "Australia",
+    "stats": {
+      "congregations": 762,
+      "ministers": 68646,
+      "population": 25203,
+      "ratio": 372
+    }
+  },
+  {
+    "id": "GB",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GB/",
+    "name": "Britain",
+    "stats": {
+      "congregations": 1618,
+      "ministers": 137029,
+      "population": 64345,
+      "ratio": 478
+    }
+  },
+  {
+    "id": "YT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/YT/",
+    "name": "Mayotte",
+    "stats": {
+      "congregations": 3,
+      "ministers": 188,
+      "population": 266000,
+      "ratio": 486
+    }
+  },
+  {
+    "id": "CA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CA/",
+    "name": "Canada",
+    "stats": {
+      "congregations": 1326,
+      "ministers": 115634,
+      "population": 37411,
+      "ratio": 326
+    }
+  },
+  {
+    "id": "ML",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ML/",
+    "name": "Mali",
+    "stats": {
+      "congregations": 7,
+      "ministers": 361,
+      "population": 19658,
+      "ratio": 570
+    }
+  },
+  {
+    "id": "ZW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ZW/",
+    "name": "Zimbabwe",
+    "stats": {
+      "congregations": 1271,
+      "ministers": 50403,
+      "population": 14645,
+      "ratio": 305
+    }
+  },
+  {
+    "id": "AM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AM/",
+    "name": "Armenia",
+    "stats": {
+      "congregations": 129,
+      "ministers": 10924,
+      "population": 2958,
+      "ratio": 276
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/bonaire/",
+    "name": "Bonaire",
+    "stats": {
+      "congregations": 2,
+      "ministers": 131,
+      "population": 20000,
+      "ratio": 165
+    }
+  },
+  {
+    "id": "MH",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MH/",
+    "name": "Marshall Islands",
+    "stats": {
+      "congregations": 4,
+      "ministers": 158,
+      "population": 59000,
+      "ratio": 421
+    }
+  },
+  {
+    "id": "GM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GM/",
+    "name": "Gambia",
+    "stats": {
+      "congregations": 5,
+      "ministers": 238,
+      "population": 2348,
+      "ratio": 344
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/rota/",
+    "name": "Rota",
+    "stats": {
+      "congregations": 1,
+      "ministers": 9,
+      "population": 2500,
+      "ratio": 313
+    }
+  },
+  {
+    "id": "GT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GT/",
+    "name": "Guatemala",
+    "stats": {
+      "congregations": 873,
+      "ministers": 40525,
+      "population": 17581,
+      "ratio": 438
+    }
+  },
+  {
+    "id": "EC",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/EC/",
+    "name": "Ecuador",
+    "stats": {
+      "congregations": 1154,
+      "ministers": 100038,
+      "population": 17374,
+      "ratio": 178
+    }
+  },
+  {
+    "id": "BR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BR/",
+    "name": "Brazil",
+    "stats": {
+      "congregations": 12408,
+      "ministers": 893784,
+      "population": 210396,
+      "ratio": 240
+    }
+  },
+  {
+    "id": "HN",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/HN/",
+    "name": "Honduras",
+    "stats": {
+      "congregations": 439,
+      "ministers": 23016,
+      "population": 9746,
+      "ratio": 428
+    }
+  },
+  {
+    "id": "ET",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ET/",
+    "name": "Ethiopia",
+    "stats": {
+      "congregations": 219,
+      "ministers": 10760,
+      "population": 112079,
+      "ratio": 652
+    }
+  },
+  {
+    "id": "VC",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/VC/",
+    "name": "Saint Vincent and the Grenadines",
+    "stats": {
+      "congregations": 8,
+      "ministers": 322,
+      "population": 111000,
+      "ratio": 356
+    }
+  },
+  {
+    "id": "SL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SL/",
+    "name": "Sierra Leone",
+    "stats": {
+      "congregations": 41,
+      "ministers": 2465,
+      "population": 7813,
+      "ratio": 427
+    }
+  },
+  {
+    "id": "HR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/HR/",
+    "name": "Croatia",
+    "stats": {
+      "congregations": 58,
+      "ministers": 4965,
+      "population": 4130,
+      "ratio": 850
+    }
+  },
+  {
+    "id": "UA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/UA/",
+    "name": "Ukraine",
+    "stats": {
+      "congregations": 1520,
+      "ministers": 129310,
+      "population": 43994,
+      "ratio": 344
+    }
+  },
+  {
+    "id": "PT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PT/",
+    "name": "Portugal",
+    "stats": {
+      "congregations": 652,
+      "ministers": 49692,
+      "population": 9780,
+      "ratio": 198
+    }
+  },
+  {
+    "id": "DM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/DM/",
+    "name": "Dominica",
+    "stats": {
+      "congregations": 10,
+      "ministers": 442,
+      "population": 72000,
+      "ratio": 175
+    }
+  },
+  {
+    "id": "PK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PK/",
+    "name": "Pakistan",
+    "stats": {
+      "congregations": 20,
+      "ministers": 1122,
+      "population": 216565,
+      "ratio": 53
+    }
+  },
+  {
+    "id": "WG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/WG/",
+    "name": "Grenada",
+    "stats": {
+      "congregations": 10,
+      "ministers": 550,
+      "population": 112000,
+      "ratio": 213
+    }
+  },
+  {
+    "id": "SZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SZ/",
+    "name": "Eswatini",
+    "stats": {
+      "congregations": 80,
+      "ministers": 3354,
+      "population": 1148,
+      "ratio": 352
+    }
+  },
+  {
+    "id": "NO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NO/",
+    "name": "Norway",
+    "stats": {
+      "congregations": 167,
+      "ministers": 11809,
+      "population": 5346,
+      "ratio": 456
+    }
+  },
+  {
+    "id": "KY",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/KY/",
+    "name": "Cayman Islands",
+    "stats": {
+      "congregations": 3,
+      "ministers": 274,
+      "population": 65000,
+      "ratio": 247
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/nevis/",
+    "name": "Nevis",
+    "stats": {
+      "congregations": 1,
+      "ministers": 74,
+      "population": 12000,
+      "ratio": 176
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/saipan/",
+    "name": "Saipan",
+    "stats": {
+      "congregations": 3,
+      "ministers": 230,
+      "population": 48000,
+      "ratio": 222
+    }
+  },
+  {
+    "id": "LR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/LR/",
+    "name": "Liberia",
+    "stats": {
+      "congregations": 145,
+      "ministers": 7851,
+      "population": 4937,
+      "ratio": 715
+    }
+  },
+  {
+    "id": "MW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MW/",
+    "name": "Malawi",
+    "stats": {
+      "congregations": 1636,
+      "ministers": 102773,
+      "population": 18629,
+      "ratio": 196
+    }
+  },
+  {
+    "id": "PA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PA/",
+    "name": "Panama",
+    "stats": {
+      "congregations": 323,
+      "ministers": 18068,
+      "population": 4246,
+      "ratio": 240
+    }
+  },
+  {
+    "id": "NZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NZ/",
+    "name": "New Zealand",
+    "stats": {
+      "congregations": 183,
+      "ministers": 14201,
+      "population": 4783,
+      "ratio": 341
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/rodrigues/",
+    "name": "Rodrigues",
+    "stats": {
+      "congregations": 1,
+      "ministers": 62,
+      "population": 38000,
+      "ratio": 667
+    }
+  },
+  {
+    "id": "TT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TT/",
+    "name": "Trinidad and Tobago",
+    "stats": {
+      "congregations": 131,
+      "ministers": 10146,
+      "population": 1395,
+      "ratio": 139
+    }
+  },
+  {
+    "id": "NL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NL/",
+    "name": "Netherlands",
+    "stats": {
+      "congregations": 352,
+      "ministers": 29525,
+      "population": 17097,
+      "ratio": 583
+    }
+  },
+  {
+    "id": "GP",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GP/",
+    "name": "Guadeloupe",
+    "stats": {
+      "congregations": 121,
+      "ministers": 8376,
+      "population": 400000,
+      "ratio": 49
+    }
+  },
+  {
+    "id": "UG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/UG/",
+    "name": "Uganda",
+    "stats": {
+      "congregations": 164,
+      "ministers": 8652,
+      "population": 44270,
+      "ratio": 303
+    }
+  },
+  {
+    "id": "ZA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ZA/",
+    "name": "South Africa",
+    "stats": {
+      "congregations": 2056,
+      "ministers": 104451,
+      "population": 58780,
+      "ratio": 568
+    }
+  },
+  {
+    "id": "MF",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MF/",
+    "name": "Saint-Martin",
+    "stats": {
+      "congregations": 5,
+      "ministers": 299,
+      "population": 38000,
+      "ratio": 147
+    }
+  },
+  {
+    "id": "TD",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TD/",
+    "name": "Chad",
+    "stats": {
+      "congregations": 19,
+      "ministers": 887,
+      "population": 15947,
+      "ratio": 608
+    }
+  },
+  {
+    "id": "FJ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/FJ/",
+    "name": "Fiji",
+    "stats": {
+      "congregations": 80,
+      "ministers": 3151,
+      "population": 890000,
+      "ratio": 289
+    }
+  },
+  {
+    "id": "CD",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CD/",
+    "name": "Congo (Kinshasa)",
+    "stats": {
+      "congregations": 3880,
+      "ministers": 243146,
+      "population": 86791,
+      "ratio": 386
+    }
+  },
+  {
+    "id": "SE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SE/",
+    "name": "Sweden",
+    "stats": {
+      "congregations": 295,
+      "ministers": 22311,
+      "population": 10281,
+      "ratio": 464
+    }
+  },
+  {
+    "id": "LV",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/LV/",
+    "name": "Latvia",
+    "stats": {
+      "congregations": 33,
+      "ministers": 2188,
+      "population": 1920,
+      "ratio": 896
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/azores/",
+    "name": "Azores",
+    "stats": {
+      "congregations": 15,
+      "ministers": 795,
+      "population": 243000,
+      "ratio": 320
+    }
+  },
+  {
+    "id": "WS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/WS/",
+    "name": "Samoa",
+    "stats": {
+      "congregations": 12,
+      "ministers": 557,
+      "population": 197000,
+      "ratio": 373
+    }
+  },
+  {
+    "id": "PG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PG/",
+    "name": "Papua New Guinea",
+    "stats": {
+      "congregations": 118,
+      "ministers": 5281,
+      "population": 8776,
+      "ratio": 829
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/chuuk/",
+    "name": "Chuuk",
+    "stats": {
+      "congregations": 2,
+      "ministers": 48,
+      "population": 49000,
+      "ratio": 195
+    }
+  },
+  {
+    "id": "NG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NG/",
+    "name": "Nigeria",
+    "stats": {
+      "congregations": 6566,
+      "ministers": 402541,
+      "population": 200964,
+      "ratio": 546
+    }
+  },
+  {
+    "id": "BO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BO/",
+    "name": "Bolivia",
+    "stats": {
+      "congregations": 427,
+      "ministers": 28732,
+      "population": 11513,
+      "ratio": 407
+    }
+  },
+  {
+    "id": "MN",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MN/",
+    "name": "Mongolia",
+    "stats": {
+      "congregations": 9,
+      "ministers": 471,
+      "population": 3225,
+      "ratio": 26
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/pohnpei/",
+    "name": "Pohnpei",
+    "stats": {
+      "congregations": 1,
+      "ministers": 55,
+      "population": 36000,
+      "ratio": 692
+    }
+  },
+  {
+    "id": "PR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PR/",
+    "name": "Puerto Rico",
+    "stats": {
+      "congregations": 237,
+      "ministers": 23656,
+      "population": 2933,
+      "ratio": 127
+    }
+  },
+  {
+    "id": "BY",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BY/",
+    "name": "Belarus",
+    "stats": {
+      "congregations": 81,
+      "ministers": 6211,
+      "population": 9452,
+      "ratio": 541
+    }
+  },
+  {
+    "id": "US",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/US/",
+    "name": "United States of America",
+    "stats": {
+      "congregations": 12594,
+      "ministers": 1237,
+      "population": 329065,
+      "ratio": 273
+    }
+  },
+  {
+    "id": "MT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MT/",
+    "name": "Malta",
+    "stats": {
+      "congregations": 10,
+      "ministers": 769,
+      "population": 494000,
+      "ratio": 660
+    }
+  },
+  {
+    "id": "LS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/LS/",
+    "name": "Lesotho",
+    "stats": {
+      "congregations": 93,
+      "ministers": 4365,
+      "population": 2125,
+      "ratio": 506
+    }
+  },
+  {
+    "id": "MY",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MY/",
+    "name": "Malaysia",
+    "stats": {
+      "congregations": 120,
+      "ministers": 5521,
+      "population": 31950,
+      "ratio": 862
+    }
+  },
+  {
+    "id": "IN",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/IN/",
+    "name": "India",
+    "stats": {
+      "congregations": 692,
+      "ministers": 49743,
+      "population": 1366,
+      "ratio": 752
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/yap/",
+    "name": "Yap",
+    "stats": {
+      "congregations": 1,
+      "ministers": 54,
+      "population": 11000,
+      "ratio": 324
+    }
+  },
+  {
+    "id": "MO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MO/",
+    "name": "Macao",
+    "stats": {
+      "congregations": 4,
+      "ministers": 358,
+      "population": 672000,
+      "ratio": 948
+    }
+  },
+  {
+    "id": "GE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GE/",
+    "name": "Georgia",
+    "stats": {
+      "congregations": 215,
+      "ministers": 18021,
+      "population": 3724,
+      "ratio": 208
+    }
+  },
+  {
+    "id": "CZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CZ/",
+    "name": "Czech Republic",
+    "stats": {
+      "congregations": 213,
+      "ministers": 15471,
+      "population": 10669,
+      "ratio": 693
+    }
+  },
+  {
+    "id": "JP",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/JP/",
+    "name": "Japan",
+    "stats": {
+      "congregations": 2991,
+      "ministers": 212651,
+      "population": 126860,
+      "ratio": 597
+    }
+  },
+  {
+    "id": "RM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/RM/",
+    "name": "Madagascar",
+    "stats": {
+      "congregations": 832,
+      "ministers": 37730,
+      "population": 26969,
+      "ratio": 732
+    }
+  },
+  {
+    "id": "SD",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SD/",
+    "name": "Sudan",
+    "stats": {
+      "congregations": 14,
+      "ministers": 662,
+      "population": 42813,
+      "ratio": 0
+    }
+  },
+  {
+    "id": "HK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/HK/",
+    "name": "Hong Kong",
+    "stats": {
+      "congregations": 64,
+      "ministers": 5617,
+      "population": 7524,
+      "ratio": 348
+    }
+  },
+  {
+    "id": "CG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CG/",
+    "name": "Congo (Brazzaville)",
+    "stats": {
+      "congregations": 98,
+      "ministers": 8808,
+      "population": 5381,
+      "ratio": 651
+    }
+  },
+  {
+    "id": "SH",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SH/",
+    "name": "Saint Helena",
+    "stats": {
+      "congregations": 3,
+      "ministers": 114,
+      "population": 4000,
+      "ratio": 36
+    }
+  },
+  {
+    "id": "GQ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GQ/",
+    "name": "Equatorial Guinea",
+    "stats": {
+      "congregations": 25,
+      "ministers": 2586,
+      "population": 1356,
+      "ratio": 598
+    }
+  },
+  {
+    "id": "KE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/KE/",
+    "name": "Kenya",
+    "stats": {
+      "congregations": 647,
+      "ministers": 29935,
+      "population": 52574,
+      "ratio": 833
+    }
+  },
+  {
+    "id": "VE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/VE/",
+    "name": "Venezuela",
+    "stats": {
+      "congregations": 1743,
+      "ministers": 137052,
+      "population": 28516,
+      "ratio": 209
+    }
+  },
+  {
+    "id": "SF",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SF/",
+    "name": "Finland",
+    "stats": {
+      "congregations": 285,
+      "ministers": 18260,
+      "population": 5524,
+      "ratio": 304
+    }
+  },
+  {
+    "id": "SM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SM/",
+    "name": "San Marino",
+    "stats": {
+      "congregations": 2,
+      "ministers": 201,
+      "population": 34000,
+      "ratio": 172
+    }
+  },
+  {
+    "id": "AT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AT/",
+    "name": "Austria",
+    "stats": {
+      "congregations": 298,
+      "ministers": 21614,
+      "population": 8955,
+      "ratio": 417
+    }
+  },
+  {
+    "id": "MM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MM/",
+    "name": "Myanmar",
+    "stats": {
+      "congregations": 91,
+      "ministers": 4821,
+      "population": 54330,
+      "ratio": 564
+    }
+  },
+  {
+    "id": "NU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NU/",
+    "name": "Niue",
+    "stats": {
+      "congregations": 1,
+      "ministers": 22,
+      "population": 2000,
+      "ratio": 100
+    }
+  },
+  {
+    "id": "VU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/VU/",
+    "name": "Vanuatu",
+    "stats": {
+      "congregations": 17,
+      "ministers": 788,
+      "population": 300000,
+      "ratio": 431
+    }
+  },
+  {
+    "id": "RS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/RS/",
+    "name": "Serbia",
+    "stats": {
+      "congregations": 64,
+      "ministers": 3943,
+      "population": 6964,
+      "ratio": 811
+    }
+  },
+  {
+    "id": "BF",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BF/",
+    "name": "Burkina Faso",
+    "stats": {
+      "congregations": 48,
+      "ministers": 2042,
+      "population": 20321,
+      "ratio": 283
+    }
+  },
+  {
+    "id": "AL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AL/",
+    "name": "Albania",
+    "stats": {
+      "congregations": 87,
+      "ministers": 5642,
+      "population": 2881,
+      "ratio": 514
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/saba/",
+    "name": "Saba",
+    "stats": {
+      "congregations": 0,
+      "ministers": 13,
+      "population": 2000,
+      "ratio": 167
+    }
+  },
+  {
+    "id": "ZM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ZM/",
+    "name": "Zambia",
+    "stats": {
+      "congregations": 3402,
+      "ministers": 223720,
+      "population": 17861,
+      "ratio": 87
+    }
+  },
+  {
+    "id": "SR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SR/",
+    "name": "Suriname",
+    "stats": {
+      "congregations": 58,
+      "ministers": 3149,
+      "population": 581000,
+      "ratio": 187
+    }
+  },
+  {
+    "id": "MZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MZ/",
+    "name": "Mozambique",
+    "stats": {
+      "congregations": 1315,
+      "ministers": 67758,
+      "population": 30366,
+      "ratio": 463
+    }
+  },
+  {
+    "id": "CF",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CF/",
+    "name": "Central African Republic",
+    "stats": {
+      "congregations": 58,
+      "ministers": 2901,
+      "population": 4745,
+      "ratio": 727
+    }
+  },
+  {
+    "id": "DK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/DK/",
+    "name": "Denmark",
+    "stats": {
+      "congregations": 173,
+      "ministers": 14622,
+      "population": 5814,
+      "ratio": 399
+    }
+  },
+  {
+    "id": "CR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CR/",
+    "name": "Costa Rica",
+    "stats": {
+      "congregations": 446,
+      "ministers": 32125,
+      "population": 5048,
+      "ratio": 159
+    }
+  },
+  {
+    "id": "CK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CK/",
+    "name": "Cook Islands",
+    "stats": {
+      "congregations": 3,
+      "ministers": 206,
+      "population": 18000,
+      "ratio": 96
+    }
+  },
+  {
+    "id": "BM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BM/",
+    "name": "Bermuda",
+    "stats": {
+      "congregations": 5,
+      "ministers": 483,
+      "population": 63000,
+      "ratio": 146
+    }
+  },
+  {
+    "id": "PY",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PY/",
+    "name": "Paraguay",
+    "stats": {
+      "congregations": 234,
+      "ministers": 10988,
+      "population": 7045,
+      "ratio": 656
+    }
+  },
+  {
+    "id": "TL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TL/",
+    "name": "Timor-Leste",
+    "stats": {
+      "congregations": 5,
+      "ministers": 392,
+      "population": 1293,
+      "ratio": 466
+    }
+  },
+  {
+    "id": "BZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BZ/",
+    "name": "Belize",
+    "stats": {
+      "congregations": 61,
+      "ministers": 2702,
+      "population": 390000,
+      "ratio": 148
+    }
+  },
+  {
+    "id": "PM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PM/",
+    "name": "Saint-Pierre and Miquelon",
+    "stats": {
+      "congregations": 1,
+      "ministers": 10,
+      "population": 6000,
+      "ratio": 600
+    }
+  },
+  {
+    "id": "KR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/KR/",
+    "name": "South Korea",
+    "stats": {
+      "congregations": 1266,
+      "ministers": 102456,
+      "population": 51709,
+      "ratio": 507
+    }
+  },
+  {
+    "id": "SV",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SV/",
+    "name": "El Salvador",
+    "stats": {
+      "congregations": 701,
+      "ministers": 40392,
+      "population": 6454,
+      "ratio": 161
+    }
+  },
+  {
+    "id": "AZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AZ/",
+    "name": "Azerbaijan",
+    "stats": {
+      "congregations": 14,
+      "ministers": 1490,
+      "population": 9982,
+      "ratio": 937
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/madeira/",
+    "name": "Madeira",
+    "stats": {
+      "congregations": 20,
+      "ministers": 1157,
+      "population": 254000,
+      "ratio": 221
+    }
+  },
+  {
+    "id": "ID",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ID/",
+    "name": "Indonesia",
+    "stats": {
+      "congregations": 514,
+      "ministers": 29107,
+      "population": 270626,
+      "ratio": 605
+    }
+  },
+  {
+    "id": "BA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BA/",
+    "name": "Bosnia and Herzegovina",
+    "stats": {
+      "congregations": 17,
+      "ministers": 1065,
+      "population": 3301,
+      "ratio": 159
+    }
+  },
+  {
+    "id": "GF",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GF/",
+    "name": "French Guiana",
+    "stats": {
+      "congregations": 47,
+      "ministers": 2842,
+      "population": 291000,
+      "ratio": 106
+    }
+  },
+  {
+    "id": "ST",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ST/",
+    "name": "São Tomé and Príncipe",
+    "stats": {
+      "congregations": 14,
+      "ministers": 924,
+      "population": 215000,
+      "ratio": 241
+    }
+  },
+  {
+    "id": "AW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AW/",
+    "name": "Aruba",
+    "stats": {
+      "congregations": 14,
+      "ministers": 1097,
+      "population": 106000,
+      "ratio": 98
+    }
+  },
+  {
+    "id": "BD",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BD/",
+    "name": "Bangladesh",
+    "stats": {
+      "congregations": 6,
+      "ministers": 324,
+      "population": 163046,
+      "ratio": 606
+    }
+  },
+  {
+    "id": "ES",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ES/",
+    "name": "Spain",
+    "stats": {
+      "congregations": 1485,
+      "ministers": 116118,
+      "population": 46737,
+      "ratio": 406
+    }
+  },
+  {
+    "id": "MD",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MD/",
+    "name": "Moldova",
+    "stats": {
+      "congregations": 208,
+      "ministers": 18808,
+      "population": 3157,
+      "ratio": 170
+    }
+  },
+  {
+    "id": "RW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/RW/",
+    "name": "Rwanda",
+    "stats": {
+      "congregations": 553,
+      "ministers": 30723,
+      "population": 12374,
+      "ratio": 423
+    }
+  },
+  {
+    "id": "NC",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NC/",
+    "name": "New Caledonia",
+    "stats": {
+      "congregations": 33,
+      "ministers": 2536,
+      "population": 283000,
+      "ratio": 115
+    }
+  },
+  {
+    "id": "AI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AI/",
+    "name": "Anguilla",
+    "stats": {
+      "congregations": 1,
+      "ministers": 67,
+      "population": 15000,
+      "ratio": 234
+    }
+  },
+  {
+    "id": "TR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TR/",
+    "name": "Turkey",
+    "stats": {
+      "congregations": 52,
+      "ministers": 4221,
+      "population": 83430,
+      "ratio": 213
+    }
+  },
+  {
+    "id": "GW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GW/",
+    "name": "Guinea-Bissau",
+    "stats": {
+      "congregations": 3,
+      "ministers": 191,
+      "population": 1921,
+      "ratio": 440
+    }
+  },
+  {
+    "id": "SI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SI/",
+    "name": "Slovenia",
+    "stats": {
+      "congregations": 30,
+      "ministers": 1825,
+      "population": 2084,
+      "ratio": 155
+    }
+  },
+  {
+    "id": "NE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NE/",
+    "name": "Niger",
+    "stats": {
+      "congregations": 9,
+      "ministers": 322,
+      "population": 23311,
+      "ratio": 430
+    }
+  },
+  {
+    "id": "BE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BE/",
+    "name": "Belgium",
+    "stats": {
+      "congregations": 336,
+      "ministers": 25173,
+      "population": 11431,
+      "ratio": 459
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/kosrae/",
+    "name": "Kosrae",
+    "stats": {
+      "congregations": 1,
+      "ministers": 20,
+      "population": 7000,
+      "ratio": 412
+    }
+  },
+  {
+    "id": "WL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/WL/",
+    "name": "Saint Lucia",
+    "stats": {
+      "congregations": 11,
+      "ministers": 819,
+      "population": 183000,
+      "ratio": 233
+    }
+  },
+  {
+    "id": "SN",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SN/",
+    "name": "Senegal",
+    "stats": {
+      "congregations": 29,
+      "ministers": 1376,
+      "population": 16296,
+      "ratio": 143
+    }
+  },
+  {
+    "id": "VG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/VG/",
+    "name": "Virgin Islands, British",
+    "stats": {
+      "congregations": 4,
+      "ministers": 241,
+      "population": 30000,
+      "ratio": 132
+    }
+  },
+  {
+    "id": "FK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/FK/",
+    "name": "Falkland Islands",
+    "stats": {
+      "congregations": 1,
+      "ministers": 15,
+      "population": 3000,
+      "ratio": 214
+    }
+  },
+  {
+    "id": "MQ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MQ/",
+    "name": "Martinique",
+    "stats": {
+      "congregations": 61,
+      "ministers": 4780,
+      "population": 376000,
+      "ratio": 80
+    }
+  },
+  {
+    "id": "AR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AR/",
+    "name": "Argentina",
+    "stats": {
+      "congregations": 1976,
+      "ministers": 154673,
+      "population": 44781,
+      "ratio": 292
+    }
+  },
+  {
+    "id": "NR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NR/",
+    "name": "Nauru",
+    "stats": {
+      "congregations": 1,
+      "ministers": 21,
+      "population": 11000,
+      "ratio": 647
+    }
+  },
+  {
+    "id": "CI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CI/",
+    "name": "Côte d'Ivoire",
+    "stats": {
+      "congregations": 325,
+      "ministers": 12194,
+      "population": 25717,
+      "ratio": 159
+    }
+  },
+  {
+    "id": "TG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TG/",
+    "name": "Togo",
+    "stats": {
+      "congregations": 318,
+      "ministers": 22691,
+      "population": 8082,
+      "ratio": 374
+    }
+  },
+  {
+    "id": "FO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/FO/",
+    "name": "Faroe Islands",
+    "stats": {
+      "congregations": 4,
+      "ministers": 131,
+      "population": 52000,
+      "ratio": 409
+    }
+  },
+  {
+    "id": "KI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/KI/",
+    "name": "Kiribati",
+    "stats": {
+      "congregations": 3,
+      "ministers": 134,
+      "population": 118000,
+      "ratio": 952
+    }
+  },
+  {
+    "id": "SC",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SC/",
+    "name": "Seychelles",
+    "stats": {
+      "congregations": 5,
+      "ministers": 340,
+      "population": 98000,
+      "ratio": 302
+    }
+  },
+  {
+    "id": "TZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TZ/",
+    "name": "Tanzania",
+    "stats": {
+      "congregations": 446,
+      "ministers": 19459,
+      "population": 58005,
+      "ratio": 127
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/saintKitts/",
+    "name": "Saint Kitts",
+    "stats": {
+      "congregations": 3,
+      "ministers": 222,
+      "population": 35000,
+      "ratio": 164
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/kosovo/",
+    "name": "Kosovo",
+    "stats": {
+      "congregations": 8,
+      "ministers": 267,
+      "population": 1796,
+      "ratio": 803
+    }
+  },
+  {
+    "id": "HT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/HT/",
+    "name": "Haiti",
+    "stats": {
+      "congregations": 276,
+      "ministers": 20433,
+      "population": 11263,
+      "ratio": 570
+    }
+  },
+  {
+    "id": "CL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CL/",
+    "name": "Chile",
+    "stats": {
+      "congregations": 955,
+      "ministers": 82305,
+      "population": 18952,
+      "ratio": 236
+    }
+  },
+  {
+    "id": "RE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/RE/",
+    "name": "Réunion",
+    "stats": {
+      "congregations": 41,
+      "ministers": 3340,
+      "population": 889000,
+      "ratio": 270
+    }
+  },
+  {
+    "id": "NP",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NP/",
+    "name": "Nepal",
+    "stats": {
+      "congregations": 42,
+      "ministers": 2659,
+      "population": 28609,
+      "ratio": 890
+    }
+  },
+  {
+    "id": "GU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GU/",
+    "name": "Guam",
+    "stats": {
+      "congregations": 10,
+      "ministers": 767,
+      "population": 167000,
+      "ratio": 223
+    }
+  },
+  {
+    "id": "CU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CU/",
+    "name": "Cuba",
+    "stats": {
+      "congregations": 1457,
+      "ministers": 94873,
+      "population": 11333,
+      "ratio": 120
+    }
+  },
+  {
+    "id": "CW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CW/",
+    "name": "Curaçao",
+    "stats": {
+      "congregations": 26,
+      "ministers": 2060,
+      "population": 163000,
+      "ratio": 81
+    }
+  },
+  {
+    "id": "DO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/DO/",
+    "name": "Dominican Republic",
+    "stats": {
+      "congregations": 572,
+      "ministers": 38754,
+      "population": 10739,
+      "ratio": 283
+    }
+  },
+  {
+    "id": "IS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/IS/",
+    "name": "Iceland",
+    "stats": {
+      "congregations": 7,
+      "ministers": 390,
+      "population": 357000,
+      "ratio": 957
+    }
+  },
+  {
+    "id": "TC",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TC/",
+    "name": "Turks and Caicos Islands",
+    "stats": {
+      "congregations": 6,
+      "ministers": 346,
+      "population": 38000,
+      "ratio": 114
+    }
+  },
+  {
+    "id": "AD",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AD/",
+    "name": "Andorra",
+    "stats": {
+      "congregations": 3,
+      "ministers": 179,
+      "population": 77000,
+      "ratio": 445
+    }
+  },
+  {
+    "id": "KG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/KG/",
+    "name": "Kyrgyzstan",
+    "stats": {
+      "congregations": 85,
+      "ministers": 5300,
+      "population": 6390,
+      "ratio": 226
+    }
+  },
+  {
+    "id": "IT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/IT/",
+    "name": "Italy",
+    "stats": {
+      "congregations": 2892,
+      "ministers": 251303,
+      "population": 60550,
+      "ratio": 242
+    }
+  },
+  {
+    "id": "NF",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NF/",
+    "name": "Norfolk Island",
+    "stats": {
+      "congregations": 1,
+      "ministers": 7,
+      "population": 2000,
+      "ratio": 333
+    }
+  },
+  {
+    "id": "SB",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SB/",
+    "name": "Solomon Islands",
+    "stats": {
+      "congregations": 51,
+      "ministers": 2053,
+      "population": 670000,
+      "ratio": 353
+    }
+  },
+  {
+    "id": "BL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BL/",
+    "name": "Saint-Barthélemy",
+    "stats": {
+      "congregations": 1,
+      "ministers": 35,
+      "population": 10000,
+      "ratio": 357
+    }
+  },
+  {
+    "id": "BJ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BJ/",
+    "name": "Benin",
+    "stats": {
+      "congregations": 225,
+      "ministers": 14203,
+      "population": 11801,
+      "ratio": 884
+    }
+  },
+  {
+    "id": "LU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/LU/",
+    "name": "Luxembourg",
+    "stats": {
+      "congregations": 31,
+      "ministers": 2156,
+      "population": 616000,
+      "ratio": 290
+    }
+  },
+  {
+    "id": "PL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PL/",
+    "name": "Poland",
+    "stats": {
+      "congregations": 1277,
+      "ministers": 115229,
+      "population": 37973,
+      "ratio": 332
+    }
+  },
+  {
+    "id": "ME",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/ME/",
+    "name": "Montenegro",
+    "stats": {
+      "congregations": 5,
+      "ministers": 279,
+      "population": 628000,
+      "ratio": 309
+    }
+  },
+  {
+    "id": "LK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/LK/",
+    "name": "Sri Lanka",
+    "stats": {
+      "congregations": 116,
+      "ministers": 6669,
+      "population": 21324,
+      "ratio": 272
+    }
+  },
+  {
+    "id": "GL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GL/",
+    "name": "Greenland",
+    "stats": {
+      "congregations": 5,
+      "ministers": 153,
+      "population": 56000,
+      "ratio": 389
+    }
+  },
+  {
+    "id": "RU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/RU/",
+    "name": "Russia",
+    "stats": {
+      "congregations": null,
+      "ministers": null,
+      "population": null,
+      "ratio": null
+    }
+  },
+  {
+    "id": "EE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/EE/",
+    "name": "Estonia",
+    "stats": {
+      "congregations": 57,
+      "ministers": 4012,
+      "population": 1325,
+      "ratio": 333
+    }
+  },
+  {
+    "id": "DE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/DE/",
+    "name": "Germany",
+    "stats": {
+      "congregations": 2091,
+      "ministers": 165393,
+      "population": 83517,
+      "ratio": 508
+    }
+  },
+  {
+    "id": "GN",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GN/",
+    "name": "Guinea",
+    "stats": {
+      "congregations": 23,
+      "ministers": 1031,
+      "population": 12771,
+      "ratio": 620
+    }
+  },
+  {
+    "id": "TW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TW/",
+    "name": "Taiwan",
+    "stats": {
+      "congregations": 188,
+      "ministers": 11284,
+      "population": 23774,
+      "ratio": 137
+    }
+  },
+  {
+    "id": "NA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NA/",
+    "name": "Namibia",
+    "stats": {
+      "congregations": 46,
+      "ministers": 2647,
+      "population": 2495,
+      "ratio": 7
+    }
+  },
+  {
+    "id": "IE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/IE/",
+    "name": "Ireland",
+    "stats": {
+      "congregations": 121,
+      "ministers": 7059,
+      "population": 6802,
+      "ratio": 994
+    }
+  },
+  {
+    "id": "MK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MK/",
+    "name": "North Macedonia",
+    "stats": {
+      "congregations": 23,
+      "ministers": 1287,
+      "population": 2083,
+      "ratio": 640
+    }
+  },
+  {
+    "id": "KZ",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/KZ/",
+    "name": "Kazakhstan",
+    "stats": {
+      "congregations": 262,
+      "ministers": 17485,
+      "population": 18551,
+      "ratio": 72
+    }
+  },
+  {
+    "id": "CV",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CV/",
+    "name": "Cape Verde",
+    "stats": {
+      "congregations": 35,
+      "ministers": 2327,
+      "population": 550000,
+      "ratio": 241
+    }
+  },
+  {
+    "id": "TH",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TH/",
+    "name": "Thailand",
+    "stats": {
+      "congregations": 136,
+      "ministers": 5392,
+      "population": 69626,
+      "ratio": 127
+    }
+  },
+  {
+    "id": "CH",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CH/",
+    "name": "Switzerland",
+    "stats": {
+      "congregations": 270,
+      "ministers": 19281,
+      "population": 8591,
+      "ratio": 451
+    }
+  },
+  {
+    "id": "AO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AO/",
+    "name": "Angola",
+    "stats": {
+      "congregations": 2269,
+      "ministers": 165631,
+      "population": 31825,
+      "ratio": 199
+    }
+  },
+  {
+    "id": "PE",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PE/",
+    "name": "Peru",
+    "stats": {
+      "congregations": 1562,
+      "ministers": 132559,
+      "population": 32510,
+      "ratio": 252
+    }
+  },
+  {
+    "id": "BG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BG/",
+    "name": "Bulgaria",
+    "stats": {
+      "congregations": 52,
+      "ministers": 2556,
+      "population": 7000,
+      "ratio": 773
+    }
+  },
+  {
+    "id": "HU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/HU/",
+    "name": "Hungary",
+    "stats": {
+      "congregations": 293,
+      "ministers": 21256,
+      "population": 9773,
+      "ratio": 464
+    }
+  },
+  {
+    "id": "TV",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TV/",
+    "name": "Tuvalu",
+    "stats": {
+      "congregations": 1,
+      "ministers": 93,
+      "population": 12000,
+      "ratio": 152
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/sintEustatius/",
+    "name": "Saint Eustatius",
+    "stats": {
+      "congregations": 1,
+      "ministers": 28,
+      "population": 3000,
+      "ratio": 111
+    }
+  },
+  {
+    "id": "PW",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PW/",
+    "name": "Palau",
+    "stats": {
+      "congregations": 2,
+      "ministers": 83,
+      "population": 18000,
+      "ratio": 234
+    }
+  },
+  {
+    "id": "GI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GI/",
+    "name": "Gibraltar",
+    "stats": {
+      "congregations": 2,
+      "ministers": 137,
+      "population": 34000,
+      "ratio": 264
+    }
+  },
+  {
+    "id": "RO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/RO/",
+    "name": "Romania",
+    "stats": {
+      "congregations": 540,
+      "ministers": 39389,
+      "population": 19365,
+      "ratio": 493
+    }
+  },
+  {
+    "id": "PH",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/PH/",
+    "name": "Philippines",
+    "stats": {
+      "congregations": 3472,
+      "ministers": 222911,
+      "population": 108117,
+      "ratio": 489
+    }
+  },
+  {
+    "id": "CY",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CY/",
+    "name": "Cyprus",
+    "stats": {
+      "congregations": 43,
+      "ministers": 2704,
+      "population": 1199,
+      "ratio": 448
+    }
+  },
+  {
+    "id": "WF",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/WF/",
+    "name": "Wallis and Futuna Islands",
+    "stats": {
+      "congregations": 1,
+      "ministers": 63,
+      "population": 11000,
+      "ratio": 208
+    }
+  },
+  {
+    "id": null,
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/tahiti/",
+    "name": "Tahiti",
+    "stats": {
+      "congregations": 46,
+      "ministers": 3273,
+      "population": 282000,
+      "ratio": 87
+    }
+  },
+  {
+    "id": "MX",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MX/",
+    "name": "Mexico",
+    "stats": {
+      "congregations": 13074,
+      "ministers": 874491,
+      "population": 127576,
+      "ratio": 148
+    }
+  },
+  {
+    "id": "BS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BS/",
+    "name": "Bahamas",
+    "stats": {
+      "congregations": 28,
+      "ministers": 1776,
+      "population": 389000,
+      "ratio": 229
+    }
+  },
+  {
+    "id": "MU",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/MU/",
+    "name": "Mauritius",
+    "stats": {
+      "congregations": 27,
+      "ministers": 1910,
+      "population": 1270,
+      "ratio": 676
+    }
+  },
+  {
+    "id": "LT",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/LT/",
+    "name": "Lithuania",
+    "stats": {
+      "congregations": 46,
+      "ministers": 2977,
+      "population": 2794,
+      "ratio": 948
+    }
+  },
+  {
+    "id": "GH",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GH/",
+    "name": "Ghana",
+    "stats": {
+      "congregations": 2167,
+      "ministers": 144570,
+      "population": 30418,
+      "ratio": 218
+    }
+  },
+  {
+    "id": "AS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AS/",
+    "name": "American Samoa",
+    "stats": {
+      "congregations": 3,
+      "ministers": 180,
+      "population": 55000,
+      "ratio": 357
+    }
+  },
+  {
+    "id": "NI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/NI/",
+    "name": "Nicaragua",
+    "stats": {
+      "congregations": 468,
+      "ministers": 29567,
+      "population": 6546,
+      "ratio": 227
+    }
+  },
+  {
+    "id": "GA",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GA/",
+    "name": "Gabon",
+    "stats": {
+      "congregations": 57,
+      "ministers": 4869,
+      "population": 2173,
+      "ratio": 493
+    }
+  },
+  {
+    "id": "SK",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SK/",
+    "name": "Slovakia",
+    "stats": {
+      "congregations": 132,
+      "ministers": 11147,
+      "population": 5452,
+      "ratio": 493
+    }
+  },
+  {
+    "id": "SX",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SX/",
+    "name": "Saint Maarten",
+    "stats": {
+      "congregations": 6,
+      "ministers": 333,
+      "population": 42000,
+      "ratio": 131
+    }
+  },
+  {
+    "id": "VI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/VI/",
+    "name": "Virgin Islands, U.S.",
+    "stats": {
+      "congregations": 9,
+      "ministers": 588,
+      "population": 105000,
+      "ratio": 190
+    }
+  },
+  {
+    "id": "SS",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/SS/",
+    "name": "South Sudan",
+    "stats": {
+      "congregations": 32,
+      "ministers": 1595,
+      "population": 11062,
+      "ratio": 98
+    }
+  },
+  {
+    "id": "AG",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/AG/",
+    "name": "Antigua and Barbuda",
+    "stats": {
+      "congregations": 7,
+      "ministers": 475,
+      "population": 97000,
+      "ratio": 214
+    }
+  },
+  {
+    "id": "KH",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/KH/",
+    "name": "Cambodia",
+    "stats": {
+      "congregations": 17,
+      "ministers": 1182,
+      "population": 16487,
+      "ratio": 188
+    }
+  },
+  {
+    "id": "CO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CO/",
+    "name": "Colombia",
+    "stats": {
+      "congregations": 2248,
+      "ministers": 187229,
+      "population": 50339,
+      "ratio": 274
+    }
+  },
+  {
+    "id": "BI",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BI/",
+    "name": "Burundi",
+    "stats": {
+      "congregations": 271,
+      "ministers": 15565,
+      "population": 11531,
+      "ratio": 783
+    }
+  },
+  {
+    "id": "CM",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/CM/",
+    "name": "Cameroon",
+    "stats": {
+      "congregations": 500,
+      "ministers": 45092,
+      "population": 25876,
+      "ratio": 616
+    }
+  },
+  {
+    "id": "GR",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/GR/",
+    "name": "Greece",
+    "stats": {
+      "congregations": 358,
+      "ministers": 28171,
+      "population": 10722,
+      "ratio": 382
+    }
+  },
+  {
+    "id": "BB",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/BB/",
+    "name": "Barbados",
+    "stats": {
+      "congregations": 30,
+      "ministers": 2439,
+      "population": 287000,
+      "ratio": 119
+    }
+  },
+  {
+    "id": "IL",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/IL/",
+    "name": "Israel",
+    "stats": {
+      "congregations": 32,
+      "ministers": 1879,
+      "population": 9260,
+      "ratio": 44
+    }
+  },
+  {
+    "id": "TO",
+    "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/TO/",
+    "name": "Tonga",
+    "stats": {
+      "congregations": 2,
+      "ministers": 211,
+      "population": 104000,
+      "ratio": 584
+    }
+  }
+]
