@@ -1,96 +1,106 @@
-import React, { useContext } from "react";
-import * as am4core from "@amcharts/amcharts4/core";
-import * as am4maps from "@amcharts/amcharts4/maps";
-import am4geodata_worldLow from "@amcharts/amcharts4-geodata/worldLow";
+import React, { useContext, useEffect } from "react";
+// import * as am4core from "@amcharts/amcharts4/core";
+// import * as am4maps from "@amcharts/amcharts4/maps";
+// import am4geodata_worldLow from "@amcharts/amcharts4-geodata/worldLow";
 import _ from "lodash";
+import * as d3 from "d3";
+import * as topojson from "topojson-client";
 
 import countries from "../countries.json";
 import { CountryContext } from "./CountryProvider";
 
-// Create map instance
-var chart = am4core.create("js-globe", am4maps.MapChart);
-
-chart.panBehavior = "rotateLongLat";
-
-// hide logo
-chart.logo.height = -15;
-
-// Set map definition
-chart.geodata = am4geodata_worldLow;
-
-chart.padding(20, 20, 20, 20);
-
-// chart.moveTo(2);
-
-// Set projection
-chart.projection = new am4maps.projections.Orthographic();
-
-// Create map polygon series
-var worldSeries = chart.series.push(new am4maps.MapPolygonSeries());
-
-// Make map load polygon (like country names) data from GeoJSON
-worldSeries.useGeodata = true;
-
-worldSeries.data = countries;
-
-// Configure series
-var polygonTemplate = worldSeries.mapPolygons.template;
-polygonTemplate.tooltipText = "{name}";
-polygonTemplate.fill = am4core.color("#2256CA");
-
-// Create hover state and set alternative fill color
-var hs = polygonTemplate.states.create("hover");
-hs.properties.fill = am4core.color("#367B25");
-
-chart.backgroundSeries.mapPolygons.template.polygon.fill = am4core.color(
-  "#579cdb"
-);
-chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
-
-let animation = null;
-const focusCountry = id => {
-  const polygon = worldSeries.getPolygonById(id);
-  chart.zoomToMapObject(polygon, 2, true, 2000);
-
-  // if (animation) {
-  //   animation.stop();
-  // }
-  // animation = chart.animate(
-  //   [
-  //     {
-  //       property: "deltaLongitude",
-  //       to: Math.floor(polygon.longitude)
-  //     },
-  //     {
-  //       property: "deltaLatitude",
-  //       to: Math.floor(polygon.latitude)
-  //     }
-  //   ],
-  //   2000
-  // );
-};
-
-animation = chart.animate(
-  [
-    {
-      property: "deltaLongitude",
-      to: 180
-    }
-  ],
-  30000
-);
-
-polygonTemplate.events.on("hit", function(polygon) {
-  focusCountry(polygon.target.dataItem.dataContext.id);
-});
-
 const Map = () => {
   const [country, setCountry] = useContext(CountryContext);
 
-  polygonTemplate.events.on("hit", function(ev) {
-    setCountry(() =>
-      _.pick(ev.target.dataItem.dataContext, ["id", "name", "stats", "jwURL"])
+  useEffect(() => {
+    let width = d3
+      .select("#js-globe")
+      .node()
+      .getBoundingClientRect().width;
+
+    let height = 500;
+    const sensitivity = 75;
+
+    let projection = d3
+      .geoOrthographic()
+      .scale(250)
+      .center([0, 0])
+      .rotate([0, -30])
+      .translate([width / 2, height / 2]);
+
+    const initialScale = projection.scale();
+    let path = d3.geoPath().projection(projection);
+
+    let svg = d3
+      .select("#js-globe")
+      .append("svg")
+      .attr("width", width)
+      .attr("height", height);
+
+    let globe = svg
+      .append("circle")
+      .attr("fill", "#2F84DF")
+      .attr("stroke", "#000")
+      .attr("stroke-width", "0.2")
+      .attr("cx", width / 2)
+      .attr("cy", height / 2)
+      .attr("r", initialScale);
+
+    svg
+      .call(
+        d3.drag().on("drag", () => {
+          const rotate = projection.rotate();
+          const k = sensitivity / projection.scale();
+          projection.rotate([
+            rotate[0] + d3.event.dx * k,
+            rotate[1] - d3.event.dy * k
+          ]);
+          path = d3.geoPath().projection(projection);
+          svg.selectAll("path").attr("d", path);
+        })
+      )
+      .call(
+        d3.zoom().on("zoom", () => {
+          if (d3.event.transform.k > 0.3) {
+            projection.scale(initialScale * d3.event.transform.k);
+            path = d3.geoPath().projection(projection);
+            svg.selectAll("path").attr("d", path);
+            globe.attr("r", projection.scale());
+          } else {
+            d3.event.transform.k = 0.3;
+          }
+        })
+      );
+
+    let map = svg.append("g");
+
+    d3.json(
+      "https://raw.githubusercontent.com/michael-keith/mps_interests/master/view/js/charts/data/world_map.json",
+      function(err, d) {
+        map
+          .append("g")
+          .attr("class", "countries")
+          .selectAll("path")
+          .data(d.features)
+          .enter()
+          .append("path")
+          .attr("class", d => "country_" + d.properties.name.replace(" ", "_"))
+          .attr("d", path)
+          .attr("fill", "#1B41BC")
+          .style("stroke", "#fff")
+          .style("stroke-width", 0.1);
+        // .style("opacity", 0.8);
+      }
     );
+
+    //Optional rotate
+    d3.timer(function(elapsed) {
+      const rotate = projection.rotate();
+      const k = sensitivity / projection.scale();
+      projection.rotate([rotate[0] - 1 * k, rotate[1]]);
+      path = d3.geoPath().projection(projection);
+      svg.selectAll("path").attr("d", path);
+    }, 200);
   });
 
   return <div id="js-globe" className="map-container"></div>;
