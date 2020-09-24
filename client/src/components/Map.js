@@ -20,7 +20,7 @@ chart.geodata = am4geodata_worldLow;
 
 chart.padding(20, 20, 20, 20);
 
-chart.moveTo(2);
+// chart.moveTo(2);
 
 // Set projection
 chart.projection = new am4maps.projections.Orthographic();
@@ -47,16 +47,46 @@ chart.backgroundSeries.mapPolygons.template.polygon.fill = am4core.color(
 );
 chart.backgroundSeries.mapPolygons.template.polygon.fillOpacity = 1;
 
-polygonTemplate.events.on("hit", function(ev) {
-  // TODO: spin globe center to this country
-  console.log(ev.target.dataItem.dataContext);
-  ev.target.series.chart.zoomToMapObject(ev.target, null, false, 3000);
+let animation = null;
+const focusCountry = id => {
+  const polygon = worldSeries.getPolygonById(id);
+  chart.zoomToMapObject(polygon, 2, true, 2000);
+
+  // if (animation) {
+  //   animation.stop();
+  // }
+  // animation = chart.animate(
+  //   [
+  //     {
+  //       property: "deltaLongitude",
+  //       to: Math.floor(polygon.longitude)
+  //     },
+  //     {
+  //       property: "deltaLatitude",
+  //       to: Math.floor(polygon.latitude)
+  //     }
+  //   ],
+  //   2000
+  // );
+};
+
+animation = chart.animate(
+  [
+    {
+      property: "deltaLongitude",
+      to: 180
+    }
+  ],
+  30000
+);
+
+polygonTemplate.events.on("hit", function(polygon) {
+  focusCountry(polygon.target.dataItem.dataContext.id);
 });
 
 const Map = () => {
   const [country, setCountry] = useContext(CountryContext);
 
-  // Zoom in on click
   polygonTemplate.events.on("hit", function(ev) {
     setCountry(() =>
       _.pick(ev.target.dataItem.dataContext, ["id", "name", "stats", "jwURL"])
