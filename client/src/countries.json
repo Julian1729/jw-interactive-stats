@@ -6,7 +6,7 @@
     "stats": {
       "congregations": 151,
       "ministers": 12109,
-      "population": 3462,
+      "population": 3462000,
       "ratio": 291
     }
   },
@@ -50,8 +50,8 @@
     "stats": {
       "congregations": 47,
       "ministers": 2251,
-      "population": 2339,
-      "ratio": 52
+      "population": 2339000,
+      "ratio": 1052
     }
   },
   {
@@ -61,8 +61,8 @@
     "stats": {
       "congregations": 2,
       "ministers": 63,
-      "population": 4981,
-      "ratio": 17
+      "population": 4981000,
+      "ratio": 83017
     }
   },
   {
@@ -72,7 +72,7 @@
     "stats": {
       "congregations": 1610,
       "ministers": 131078,
-      "population": 65130,
+      "population": 65130000,
       "ratio": 502
     }
   },
@@ -83,12 +83,11 @@
     "stats": {
       "congregations": 174,
       "ministers": 11334,
-      "population": 2948,
+      "population": 2948000,
       "ratio": 266
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/tinian/",
     "name": "Tinian",
     "stats": {
@@ -105,7 +104,7 @@
     "stats": {
       "congregations": 762,
       "ministers": 68646,
-      "population": 25203,
+      "population": 25203000,
       "ratio": 372
     }
   },
@@ -116,7 +115,7 @@
     "stats": {
       "congregations": 1618,
       "ministers": 137029,
-      "population": 64345,
+      "population": 64345000,
       "ratio": 478
     }
   },
@@ -128,7 +127,7 @@
       "congregations": 3,
       "ministers": 188,
       "population": 266000,
-      "ratio": 486
+      "ratio": 1486
     }
   },
   {
@@ -138,7 +137,7 @@
     "stats": {
       "congregations": 1326,
       "ministers": 115634,
-      "population": 37411,
+      "population": 37411000,
       "ratio": 326
     }
   },
@@ -149,8 +148,8 @@
     "stats": {
       "congregations": 7,
       "ministers": 361,
-      "population": 19658,
-      "ratio": 570
+      "population": 19658000,
+      "ratio": 59570
     }
   },
   {
@@ -160,7 +159,7 @@
     "stats": {
       "congregations": 1271,
       "ministers": 50403,
-      "population": 14645,
+      "population": 14645000,
       "ratio": 305
     }
   },
@@ -171,12 +170,11 @@
     "stats": {
       "congregations": 129,
       "ministers": 10924,
-      "population": 2958,
+      "population": 2958000,
       "ratio": 276
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/bonaire/",
     "name": "Bonaire",
     "stats": {
@@ -204,12 +202,11 @@
     "stats": {
       "congregations": 5,
       "ministers": 238,
-      "population": 2348,
-      "ratio": 344
+      "population": 2348000,
+      "ratio": 10344
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/rota/",
     "name": "Rota",
     "stats": {
@@ -226,7 +223,7 @@
     "stats": {
       "congregations": 873,
       "ministers": 40525,
-      "population": 17581,
+      "population": 17581000,
       "ratio": 438
     }
   },
@@ -237,7 +234,7 @@
     "stats": {
       "congregations": 1154,
       "ministers": 100038,
-      "population": 17374,
+      "population": 17374000,
       "ratio": 178
     }
   },
@@ -248,7 +245,7 @@
     "stats": {
       "congregations": 12408,
       "ministers": 893784,
-      "population": 210396,
+      "population": 210396000,
       "ratio": 240
     }
   },
@@ -259,7 +256,7 @@
     "stats": {
       "congregations": 439,
       "ministers": 23016,
-      "population": 9746,
+      "population": 9746000,
       "ratio": 428
     }
   },
@@ -270,8 +267,8 @@
     "stats": {
       "congregations": 219,
       "ministers": 10760,
-      "population": 112079,
-      "ratio": 652
+      "population": 112079000,
+      "ratio": 10652
     }
   },
   {
@@ -292,8 +289,8 @@
     "stats": {
       "congregations": 41,
       "ministers": 2465,
-      "population": 7813,
-      "ratio": 427
+      "population": 7813000,
+      "ratio": 3427
     }
   },
   {
@@ -303,7 +300,7 @@
     "stats": {
       "congregations": 58,
       "ministers": 4965,
-      "population": 4130,
+      "population": 4130000,
       "ratio": 850
     }
   },
@@ -314,7 +311,7 @@
     "stats": {
       "congregations": 1520,
       "ministers": 129310,
-      "population": 43994,
+      "population": 43994000,
       "ratio": 344
     }
   },
@@ -325,7 +322,7 @@
     "stats": {
       "congregations": 652,
       "ministers": 49692,
-      "population": 9780,
+      "population": 9780000,
       "ratio": 198
     }
   },
@@ -347,8 +344,8 @@
     "stats": {
       "congregations": 20,
       "ministers": 1122,
-      "population": 216565,
-      "ratio": 53
+      "population": 216565000,
+      "ratio": 210053
     }
   },
   {
@@ -369,7 +366,7 @@
     "stats": {
       "congregations": 80,
       "ministers": 3354,
-      "population": 1148,
+      "population": 1148000,
       "ratio": 352
     }
   },
@@ -380,7 +377,7 @@
     "stats": {
       "congregations": 167,
       "ministers": 11809,
-      "population": 5346,
+      "population": 5346000,
       "ratio": 456
     }
   },
@@ -396,7 +393,6 @@
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/nevis/",
     "name": "Nevis",
     "stats": {
@@ -407,7 +403,6 @@
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/saipan/",
     "name": "Saipan",
     "stats": {
@@ -424,7 +419,7 @@
     "stats": {
       "congregations": 145,
       "ministers": 7851,
-      "population": 4937,
+      "population": 4937000,
       "ratio": 715
     }
   },
@@ -435,7 +430,7 @@
     "stats": {
       "congregations": 1636,
       "ministers": 102773,
-      "population": 18629,
+      "population": 18629000,
       "ratio": 196
     }
   },
@@ -446,7 +441,7 @@
     "stats": {
       "congregations": 323,
       "ministers": 18068,
-      "population": 4246,
+      "population": 4246000,
       "ratio": 240
     }
   },
@@ -457,12 +452,11 @@
     "stats": {
       "congregations": 183,
       "ministers": 14201,
-      "population": 4783,
+      "population": 4783000,
       "ratio": 341
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/rodrigues/",
     "name": "Rodrigues",
     "stats": {
@@ -479,7 +473,7 @@
     "stats": {
       "congregations": 131,
       "ministers": 10146,
-      "population": 1395,
+      "population": 1395000,
       "ratio": 139
     }
   },
@@ -490,7 +484,7 @@
     "stats": {
       "congregations": 352,
       "ministers": 29525,
-      "population": 17097,
+      "population": 17097000,
       "ratio": 583
     }
   },
@@ -512,8 +506,8 @@
     "stats": {
       "congregations": 164,
       "ministers": 8652,
-      "population": 44270,
-      "ratio": 303
+      "population": 44270000,
+      "ratio": 5303
     }
   },
   {
@@ -523,7 +517,7 @@
     "stats": {
       "congregations": 2056,
       "ministers": 104451,
-      "population": 58780,
+      "population": 58780000,
       "ratio": 568
     }
   },
@@ -545,8 +539,8 @@
     "stats": {
       "congregations": 19,
       "ministers": 887,
-      "population": 15947,
-      "ratio": 608
+      "population": 15947000,
+      "ratio": 18608
     }
   },
   {
@@ -567,7 +561,7 @@
     "stats": {
       "congregations": 3880,
       "ministers": 243146,
-      "population": 86791,
+      "population": 86791000,
       "ratio": 386
     }
   },
@@ -578,7 +572,7 @@
     "stats": {
       "congregations": 295,
       "ministers": 22311,
-      "population": 10281,
+      "population": 10281000,
       "ratio": 464
     }
   },
@@ -589,12 +583,11 @@
     "stats": {
       "congregations": 33,
       "ministers": 2188,
-      "population": 1920,
+      "population": 1920000,
       "ratio": 896
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/azores/",
     "name": "Azores",
     "stats": {
@@ -622,19 +615,18 @@
     "stats": {
       "congregations": 118,
       "ministers": 5281,
-      "population": 8776,
-      "ratio": 829
+      "population": 8776000,
+      "ratio": 1829
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/chuuk/",
     "name": "Chuuk",
     "stats": {
       "congregations": 2,
       "ministers": 48,
       "population": 49000,
-      "ratio": 195
+      "ratio": 1195
     }
   },
   {
@@ -644,7 +636,7 @@
     "stats": {
       "congregations": 6566,
       "ministers": 402541,
-      "population": 200964,
+      "population": 200964000,
       "ratio": 546
     }
   },
@@ -655,7 +647,7 @@
     "stats": {
       "congregations": 427,
       "ministers": 28732,
-      "population": 11513,
+      "population": 11513000,
       "ratio": 407
     }
   },
@@ -666,12 +658,11 @@
     "stats": {
       "congregations": 9,
       "ministers": 471,
-      "population": 3225,
-      "ratio": 26
+      "population": 3225000,
+      "ratio": 7026
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/pohnpei/",
     "name": "Pohnpei",
     "stats": {
@@ -688,7 +679,7 @@
     "stats": {
       "congregations": 237,
       "ministers": 23656,
-      "population": 2933,
+      "population": 2933000,
       "ratio": 127
     }
   },
@@ -699,8 +690,8 @@
     "stats": {
       "congregations": 81,
       "ministers": 6211,
-      "population": 9452,
-      "ratio": 541
+      "population": 9452000,
+      "ratio": 1541
     }
   },
   {
@@ -709,8 +700,8 @@
     "name": "United States of America",
     "stats": {
       "congregations": 12594,
-      "ministers": 1237,
-      "population": 329065,
+      "ministers": 1237054,
+      "population": 329065000,
       "ratio": 273
     }
   },
@@ -732,7 +723,7 @@
     "stats": {
       "congregations": 93,
       "ministers": 4365,
-      "population": 2125,
+      "population": 2125000,
       "ratio": 506
     }
   },
@@ -743,8 +734,8 @@
     "stats": {
       "congregations": 120,
       "ministers": 5521,
-      "population": 31950,
-      "ratio": 862
+      "population": 31950000,
+      "ratio": 5862
     }
   },
   {
@@ -754,12 +745,11 @@
     "stats": {
       "congregations": 692,
       "ministers": 49743,
-      "population": 1366,
-      "ratio": 752
+      "population": 1366418000,
+      "ratio": 27752
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/yap/",
     "name": "Yap",
     "stats": {
@@ -777,7 +767,7 @@
       "congregations": 4,
       "ministers": 358,
       "population": 672000,
-      "ratio": 948
+      "ratio": 1948
     }
   },
   {
@@ -787,7 +777,7 @@
     "stats": {
       "congregations": 215,
       "ministers": 18021,
-      "population": 3724,
+      "population": 3724000,
       "ratio": 208
     }
   },
@@ -798,7 +788,7 @@
     "stats": {
       "congregations": 213,
       "ministers": 15471,
-      "population": 10669,
+      "population": 10669000,
       "ratio": 693
     }
   },
@@ -809,7 +799,7 @@
     "stats": {
       "congregations": 2991,
       "ministers": 212651,
-      "population": 126860,
+      "population": 126860000,
       "ratio": 597
     }
   },
@@ -820,7 +810,7 @@
     "stats": {
       "congregations": 832,
       "ministers": 37730,
-      "population": 26969,
+      "population": 26969000,
       "ratio": 732
     }
   },
@@ -831,8 +821,8 @@
     "stats": {
       "congregations": 14,
       "ministers": 662,
-      "population": 42813,
-      "ratio": 0
+      "population": 42813000,
+      "ratio": 67000
     }
   },
   {
@@ -842,8 +832,8 @@
     "stats": {
       "congregations": 64,
       "ministers": 5617,
-      "population": 7524,
-      "ratio": 348
+      "population": 7524000,
+      "ratio": 1348
     }
   },
   {
@@ -853,7 +843,7 @@
     "stats": {
       "congregations": 98,
       "ministers": 8808,
-      "population": 5381,
+      "population": 5381000,
       "ratio": 651
     }
   },
@@ -875,7 +865,7 @@
     "stats": {
       "congregations": 25,
       "ministers": 2586,
-      "population": 1356,
+      "population": 1356000,
       "ratio": 598
     }
   },
@@ -886,8 +876,8 @@
     "stats": {
       "congregations": 647,
       "ministers": 29935,
-      "population": 52574,
-      "ratio": 833
+      "population": 52574000,
+      "ratio": 1833
     }
   },
   {
@@ -897,7 +887,7 @@
     "stats": {
       "congregations": 1743,
       "ministers": 137052,
-      "population": 28516,
+      "population": 28516000,
       "ratio": 209
     }
   },
@@ -908,7 +898,7 @@
     "stats": {
       "congregations": 285,
       "ministers": 18260,
-      "population": 5524,
+      "population": 5524000,
       "ratio": 304
     }
   },
@@ -930,7 +920,7 @@
     "stats": {
       "congregations": 298,
       "ministers": 21614,
-      "population": 8955,
+      "population": 8955000,
       "ratio": 417
     }
   },
@@ -941,8 +931,8 @@
     "stats": {
       "congregations": 91,
       "ministers": 4821,
-      "population": 54330,
-      "ratio": 564
+      "population": 54330000,
+      "ratio": 11564
     }
   },
   {
@@ -974,8 +964,8 @@
     "stats": {
       "congregations": 64,
       "ministers": 3943,
-      "population": 6964,
-      "ratio": 811
+      "population": 6964000,
+      "ratio": 1811
     }
   },
   {
@@ -985,8 +975,8 @@
     "stats": {
       "congregations": 48,
       "ministers": 2042,
-      "population": 20321,
-      "ratio": 283
+      "population": 20321000,
+      "ratio": 11283
     }
   },
   {
@@ -996,12 +986,11 @@
     "stats": {
       "congregations": 87,
       "ministers": 5642,
-      "population": 2881,
+      "population": 2881000,
       "ratio": 514
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/saba/",
     "name": "Saba",
     "stats": {
@@ -1018,7 +1007,7 @@
     "stats": {
       "congregations": 3402,
       "ministers": 223720,
-      "population": 17861,
+      "population": 17861000,
       "ratio": 87
     }
   },
@@ -1040,7 +1029,7 @@
     "stats": {
       "congregations": 1315,
       "ministers": 67758,
-      "population": 30366,
+      "population": 30366000,
       "ratio": 463
     }
   },
@@ -1051,8 +1040,8 @@
     "stats": {
       "congregations": 58,
       "ministers": 2901,
-      "population": 4745,
-      "ratio": 727
+      "population": 4745000,
+      "ratio": 1727
     }
   },
   {
@@ -1062,7 +1051,7 @@
     "stats": {
       "congregations": 173,
       "ministers": 14622,
-      "population": 5814,
+      "population": 5814000,
       "ratio": 399
     }
   },
@@ -1073,7 +1062,7 @@
     "stats": {
       "congregations": 446,
       "ministers": 32125,
-      "population": 5048,
+      "population": 5048000,
       "ratio": 159
     }
   },
@@ -1106,7 +1095,7 @@
     "stats": {
       "congregations": 234,
       "ministers": 10988,
-      "population": 7045,
+      "population": 7045000,
       "ratio": 656
     }
   },
@@ -1117,8 +1106,8 @@
     "stats": {
       "congregations": 5,
       "ministers": 392,
-      "population": 1293,
-      "ratio": 466
+      "population": 1293000,
+      "ratio": 3466
     }
   },
   {
@@ -1150,7 +1139,7 @@
     "stats": {
       "congregations": 1266,
       "ministers": 102456,
-      "population": 51709,
+      "population": 51709000,
       "ratio": 507
     }
   },
@@ -1161,7 +1150,7 @@
     "stats": {
       "congregations": 701,
       "ministers": 40392,
-      "population": 6454,
+      "population": 6454000,
       "ratio": 161
     }
   },
@@ -1172,12 +1161,11 @@
     "stats": {
       "congregations": 14,
       "ministers": 1490,
-      "population": 9982,
-      "ratio": 937
+      "population": 9982000,
+      "ratio": 6937
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/madeira/",
     "name": "Madeira",
     "stats": {
@@ -1194,8 +1182,8 @@
     "stats": {
       "congregations": 514,
       "ministers": 29107,
-      "population": 270626,
-      "ratio": 605
+      "population": 270626000,
+      "ratio": 9605
     }
   },
   {
@@ -1205,8 +1193,8 @@
     "stats": {
       "congregations": 17,
       "ministers": 1065,
-      "population": 3301,
-      "ratio": 159
+      "population": 3301000,
+      "ratio": 3159
     }
   },
   {
@@ -1249,8 +1237,8 @@
     "stats": {
       "congregations": 6,
       "ministers": 324,
-      "population": 163046,
-      "ratio": 606
+      "population": 163046000,
+      "ratio": 517606
     }
   },
   {
@@ -1260,7 +1248,7 @@
     "stats": {
       "congregations": 1485,
       "ministers": 116118,
-      "population": 46737,
+      "population": 46737000,
       "ratio": 406
     }
   },
@@ -1271,7 +1259,7 @@
     "stats": {
       "congregations": 208,
       "ministers": 18808,
-      "population": 3157,
+      "population": 3157000,
       "ratio": 170
     }
   },
@@ -1282,7 +1270,7 @@
     "stats": {
       "congregations": 553,
       "ministers": 30723,
-      "population": 12374,
+      "population": 12374000,
       "ratio": 423
     }
   },
@@ -1315,8 +1303,8 @@
     "stats": {
       "congregations": 52,
       "ministers": 4221,
-      "population": 83430,
-      "ratio": 213
+      "population": 83430000,
+      "ratio": 21213
     }
   },
   {
@@ -1326,8 +1314,8 @@
     "stats": {
       "congregations": 3,
       "ministers": 191,
-      "population": 1921,
-      "ratio": 440
+      "population": 1921000,
+      "ratio": 10440
     }
   },
   {
@@ -1337,8 +1325,8 @@
     "stats": {
       "congregations": 30,
       "ministers": 1825,
-      "population": 2084,
-      "ratio": 155
+      "population": 2084000,
+      "ratio": 1155
     }
   },
   {
@@ -1348,8 +1336,8 @@
     "stats": {
       "congregations": 9,
       "ministers": 322,
-      "population": 23311,
-      "ratio": 430
+      "population": 23311000,
+      "ratio": 76430
     }
   },
   {
@@ -1359,12 +1347,11 @@
     "stats": {
       "congregations": 336,
       "ministers": 25173,
-      "population": 11431,
+      "population": 11431000,
       "ratio": 459
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/kosrae/",
     "name": "Kosrae",
     "stats": {
@@ -1392,8 +1379,8 @@
     "stats": {
       "congregations": 29,
       "ministers": 1376,
-      "population": 16296,
-      "ratio": 143
+      "population": 16296000,
+      "ratio": 12143
     }
   },
   {
@@ -1436,7 +1423,7 @@
     "stats": {
       "congregations": 1976,
       "ministers": 154673,
-      "population": 44781,
+      "population": 44781000,
       "ratio": 292
     }
   },
@@ -1458,8 +1445,8 @@
     "stats": {
       "congregations": 325,
       "ministers": 12194,
-      "population": 25717,
-      "ratio": 159
+      "population": 25717000,
+      "ratio": 2159
     }
   },
   {
@@ -1469,7 +1456,7 @@
     "stats": {
       "congregations": 318,
       "ministers": 22691,
-      "population": 8082,
+      "population": 8082000,
       "ratio": 374
     }
   },
@@ -1513,12 +1500,11 @@
     "stats": {
       "congregations": 446,
       "ministers": 19459,
-      "population": 58005,
-      "ratio": 127
+      "population": 58005000,
+      "ratio": 3127
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/saintKitts/",
     "name": "Saint Kitts",
     "stats": {
@@ -1529,14 +1515,13 @@
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/kosovo/",
     "name": "Kosovo",
     "stats": {
       "congregations": 8,
       "ministers": 267,
-      "population": 1796,
-      "ratio": 803
+      "population": 1796000,
+      "ratio": 6803
     }
   },
   {
@@ -1546,7 +1531,7 @@
     "stats": {
       "congregations": 276,
       "ministers": 20433,
-      "population": 11263,
+      "population": 11263000,
       "ratio": 570
     }
   },
@@ -1557,7 +1542,7 @@
     "stats": {
       "congregations": 955,
       "ministers": 82305,
-      "population": 18952,
+      "population": 18952000,
       "ratio": 236
     }
   },
@@ -1579,8 +1564,8 @@
     "stats": {
       "congregations": 42,
       "ministers": 2659,
-      "population": 28609,
-      "ratio": 890
+      "population": 28609000,
+      "ratio": 10890
     }
   },
   {
@@ -1601,7 +1586,7 @@
     "stats": {
       "congregations": 1457,
       "ministers": 94873,
-      "population": 11333,
+      "population": 11333000,
       "ratio": 120
     }
   },
@@ -1623,7 +1608,7 @@
     "stats": {
       "congregations": 572,
       "ministers": 38754,
-      "population": 10739,
+      "population": 10739000,
       "ratio": 283
     }
   },
@@ -1667,8 +1652,8 @@
     "stats": {
       "congregations": 85,
       "ministers": 5300,
-      "population": 6390,
-      "ratio": 226
+      "population": 6390000,
+      "ratio": 1226
     }
   },
   {
@@ -1678,7 +1663,7 @@
     "stats": {
       "congregations": 2892,
       "ministers": 251303,
-      "population": 60550,
+      "population": 60550000,
       "ratio": 242
     }
   },
@@ -1722,7 +1707,7 @@
     "stats": {
       "congregations": 225,
       "ministers": 14203,
-      "population": 11801,
+      "population": 11801000,
       "ratio": 884
     }
   },
@@ -1744,7 +1729,7 @@
     "stats": {
       "congregations": 1277,
       "ministers": 115229,
-      "population": 37973,
+      "population": 37973000,
       "ratio": 332
     }
   },
@@ -1756,7 +1741,7 @@
       "congregations": 5,
       "ministers": 279,
       "population": 628000,
-      "ratio": 309
+      "ratio": 2309
     }
   },
   {
@@ -1766,8 +1751,8 @@
     "stats": {
       "congregations": 116,
       "ministers": 6669,
-      "population": 21324,
-      "ratio": 272
+      "population": 21324000,
+      "ratio": 3272
     }
   },
   {
@@ -1799,7 +1784,7 @@
     "stats": {
       "congregations": 57,
       "ministers": 4012,
-      "population": 1325,
+      "population": 1325000,
       "ratio": 333
     }
   },
@@ -1810,7 +1795,7 @@
     "stats": {
       "congregations": 2091,
       "ministers": 165393,
-      "population": 83517,
+      "population": 83517000,
       "ratio": 508
     }
   },
@@ -1821,8 +1806,8 @@
     "stats": {
       "congregations": 23,
       "ministers": 1031,
-      "population": 12771,
-      "ratio": 620
+      "population": 12771000,
+      "ratio": 12620
     }
   },
   {
@@ -1832,8 +1817,8 @@
     "stats": {
       "congregations": 188,
       "ministers": 11284,
-      "population": 23774,
-      "ratio": 137
+      "population": 23774000,
+      "ratio": 2137
     }
   },
   {
@@ -1843,8 +1828,8 @@
     "stats": {
       "congregations": 46,
       "ministers": 2647,
-      "population": 2495,
-      "ratio": 7
+      "population": 2495000,
+      "ratio": 1007
     }
   },
   {
@@ -1854,7 +1839,7 @@
     "stats": {
       "congregations": 121,
       "ministers": 7059,
-      "population": 6802,
+      "population": 6802000,
       "ratio": 994
     }
   },
@@ -1865,8 +1850,8 @@
     "stats": {
       "congregations": 23,
       "ministers": 1287,
-      "population": 2083,
-      "ratio": 640
+      "population": 2083000,
+      "ratio": 1640
     }
   },
   {
@@ -1876,8 +1861,8 @@
     "stats": {
       "congregations": 262,
       "ministers": 17485,
-      "population": 18551,
-      "ratio": 72
+      "population": 18551000,
+      "ratio": 1072
     }
   },
   {
@@ -1898,8 +1883,8 @@
     "stats": {
       "congregations": 136,
       "ministers": 5392,
-      "population": 69626,
-      "ratio": 127
+      "population": 69626000,
+      "ratio": 13127
     }
   },
   {
@@ -1909,7 +1894,7 @@
     "stats": {
       "congregations": 270,
       "ministers": 19281,
-      "population": 8591,
+      "population": 8591000,
       "ratio": 451
     }
   },
@@ -1920,7 +1905,7 @@
     "stats": {
       "congregations": 2269,
       "ministers": 165631,
-      "population": 31825,
+      "population": 31825000,
       "ratio": 199
     }
   },
@@ -1931,7 +1916,7 @@
     "stats": {
       "congregations": 1562,
       "ministers": 132559,
-      "population": 32510,
+      "population": 32510000,
       "ratio": 252
     }
   },
@@ -1942,8 +1927,8 @@
     "stats": {
       "congregations": 52,
       "ministers": 2556,
-      "population": 7000,
-      "ratio": 773
+      "population": 7000000,
+      "ratio": 2773
     }
   },
   {
@@ -1953,7 +1938,7 @@
     "stats": {
       "congregations": 293,
       "ministers": 21256,
-      "population": 9773,
+      "population": 9773000,
       "ratio": 464
     }
   },
@@ -1969,7 +1954,6 @@
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/sintEustatius/",
     "name": "Saint Eustatius",
     "stats": {
@@ -2008,7 +1992,7 @@
     "stats": {
       "congregations": 540,
       "ministers": 39389,
-      "population": 19365,
+      "population": 19365000,
       "ratio": 493
     }
   },
@@ -2019,7 +2003,7 @@
     "stats": {
       "congregations": 3472,
       "ministers": 222911,
-      "population": 108117,
+      "population": 108117000,
       "ratio": 489
     }
   },
@@ -2030,7 +2014,7 @@
     "stats": {
       "congregations": 43,
       "ministers": 2704,
-      "population": 1199,
+      "population": 1199000,
       "ratio": 448
     }
   },
@@ -2046,7 +2030,6 @@
     }
   },
   {
-    "id": null,
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/tahiti/",
     "name": "Tahiti",
     "stats": {
@@ -2063,7 +2046,7 @@
     "stats": {
       "congregations": 13074,
       "ministers": 874491,
-      "population": 127576,
+      "population": 127576000,
       "ratio": 148
     }
   },
@@ -2085,7 +2068,7 @@
     "stats": {
       "congregations": 27,
       "ministers": 1910,
-      "population": 1270,
+      "population": 1270000,
       "ratio": 676
     }
   },
@@ -2096,7 +2079,7 @@
     "stats": {
       "congregations": 46,
       "ministers": 2977,
-      "population": 2794,
+      "population": 2794000,
       "ratio": 948
     }
   },
@@ -2107,7 +2090,7 @@
     "stats": {
       "congregations": 2167,
       "ministers": 144570,
-      "population": 30418,
+      "population": 30418000,
       "ratio": 218
     }
   },
@@ -2129,7 +2112,7 @@
     "stats": {
       "congregations": 468,
       "ministers": 29567,
-      "population": 6546,
+      "population": 6546000,
       "ratio": 227
     }
   },
@@ -2140,7 +2123,7 @@
     "stats": {
       "congregations": 57,
       "ministers": 4869,
-      "population": 2173,
+      "population": 2173000,
       "ratio": 493
     }
   },
@@ -2151,7 +2134,7 @@
     "stats": {
       "congregations": 132,
       "ministers": 11147,
-      "population": 5452,
+      "population": 5452000,
       "ratio": 493
     }
   },
@@ -2184,8 +2167,8 @@
     "stats": {
       "congregations": 32,
       "ministers": 1595,
-      "population": 11062,
-      "ratio": 98
+      "population": 11062000,
+      "ratio": 8098
     }
   },
   {
@@ -2206,8 +2189,8 @@
     "stats": {
       "congregations": 17,
       "ministers": 1182,
-      "population": 16487,
-      "ratio": 188
+      "population": 16487000,
+      "ratio": 14188
     }
   },
   {
@@ -2217,7 +2200,7 @@
     "stats": {
       "congregations": 2248,
       "ministers": 187229,
-      "population": 50339,
+      "population": 50339000,
       "ratio": 274
     }
   },
@@ -2228,7 +2211,7 @@
     "stats": {
       "congregations": 271,
       "ministers": 15565,
-      "population": 11531,
+      "population": 11531000,
       "ratio": 783
     }
   },
@@ -2239,7 +2222,7 @@
     "stats": {
       "congregations": 500,
       "ministers": 45092,
-      "population": 25876,
+      "population": 25876000,
       "ratio": 616
     }
   },
@@ -2250,7 +2233,7 @@
     "stats": {
       "congregations": 358,
       "ministers": 28171,
-      "population": 10722,
+      "population": 10722000,
       "ratio": 382
     }
   },
@@ -2272,8 +2255,8 @@
     "stats": {
       "congregations": 32,
       "ministers": 1879,
-      "population": 9260,
-      "ratio": 44
+      "population": 9260000,
+      "ratio": 5044
     }
   },
   {

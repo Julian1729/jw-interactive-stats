@@ -5,9 +5,12 @@ import React, { useContext, useEffect } from "react";
 import _ from "lodash";
 import * as d3 from "d3";
 import * as topojson from "topojson-client";
+import countryCodes from "i18n-iso-countries";
+import enLocale from "i18n-iso-countries/langs/en.json";
 
 import countries from "../countries.json";
 import { CountryContext } from "./CountryProvider";
+countryCodes.registerLocale(enLocale);
 
 const Map = () => {
   const [country, setCountry] = useContext(CountryContext);
@@ -17,9 +20,25 @@ const Map = () => {
       .select("#js-globe")
       .node()
       .getBoundingClientRect().width;
+    let height = d3
+      .select("#js-globe")
+      .node()
+      .getBoundingClientRect().height;
 
-    let height = 500;
+    const timerCallback = elapsed => {
+      const rotate = projection.rotate();
+      const k = autoSensitivity / projection.scale();
+      projection.rotate([rotate[0] - 1 * k, rotate[1]]);
+      path = d3.geoPath().projection(projection);
+      svg.selectAll("path").attr("d", path);
+    };
+
+    //Optional rotate
+    const rotateTimer = d3.timer(timerCallback, 200);
+
+    // let height = 500;
     const sensitivity = 75;
+    const autoSensitivity = 30;
 
     let projection = d3
       .geoOrthographic()
@@ -46,9 +65,16 @@ const Map = () => {
       .attr("cy", height / 2)
       .attr("r", initialScale);
 
+    var rotateTimeout = null;
+
     svg
       .call(
         d3.drag().on("drag", () => {
+          clearTimeout(rotateTimeout);
+          rotateTimer.stop();
+          rotateTimeout = setTimeout(() => {
+            rotateTimer.restart(timerCallback);
+          }, 3000);
           const rotate = projection.rotate();
           const k = sensitivity / projection.scale();
           projection.rotate([
@@ -85,23 +111,43 @@ const Map = () => {
           .enter()
           .append("path")
           .attr("class", d => "country_" + d.properties.name.replace(" ", "_"))
+          .attr("data-alpha2", d => {
+            const alpha2Code = countryCodes.alpha3ToAlpha2(d.id);
+            d.alpha2 = alpha2Code;
+            // find country by id
+            const countryData = _.find(countries, ["id", alpha2Code]);
+            d.countryData = countryData;
+          })
           .attr("d", path)
           .attr("fill", "#1B41BC")
+          .transition()
+          .duration("300")
           .style("stroke", "#fff")
           .style("stroke-width", 0.1);
         // .style("opacity", 0.8);
+        const countryPaths = map.selectAll("path");
+        countryPaths
+          .on("click", function(a) {
+            if (!a.countryData) {
+              return console.log(`No data for ${a.properties.name}`);
+            }
+            rotateTimer.stop();
+            // get alpha 2 id
+            setCountry(prevCountry => a.countryData);
+          })
+          .on("mouseover", function() {
+            d3.select(this)
+              .attr("opacity", 0.7)
+              .style("stroke-width", 0.5);
+          })
+          .on("mouseout", function() {
+            d3.select(this)
+              .attr("opacity", 1)
+              .style("stroke-width", 0.1);
+          });
       }
     );
-
-    //Optional rotate
-    d3.timer(function(elapsed) {
-      const rotate = projection.rotate();
-      const k = sensitivity / projection.scale();
-      projection.rotate([rotate[0] - 1 * k, rotate[1]]);
-      path = d3.geoPath().projection(projection);
-      svg.selectAll("path").attr("d", path);
-    }, 200);
-  });
+  }, [setCountry]);
 
   return <div id="js-globe" className="map-container"></div>;
 };

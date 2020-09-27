@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 
+import countries from "../countries.json";
 import { CountryContext } from "./CountryProvider";
 
 const Sidebar = () => {
@@ -7,9 +8,7 @@ const Sidebar = () => {
 
   return (
     <div className="sidebar">
-      <h2>
-        {country && country.name} {country && country.id}
-      </h2>
+      <h2>{country && country.name}</h2>
       <ul className="sidebar__stats">
         <li>
           Ministers: {country && country.stats && country.stats.ministers}
