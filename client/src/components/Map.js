@@ -152,11 +152,14 @@ const Map = () => {
         countryPaths
           .on("click", function(a) {
             if (!a.countryData) {
-              return console.log(`No data for ${a.properties.name}`);
+              console.log(`No data for ${a.properties.name}`);
+              // return console.log(`No data for ${a.properties.name}`);
             }
             rotateTimer.stop();
             // get alpha 2 id
-            setCountry(prevCountry => a.countryData);
+            setCountry(
+              prevCountry => a.countryData || { name: a.properties.name }
+            );
           })
           .on("mouseover", function() {
             d3.select(this)

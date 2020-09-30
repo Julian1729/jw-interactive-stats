@@ -1,5 +1,48 @@
+$lineHeight: 1.2em
+
+@mixin white-border
+  border-left: 2px solid #fff
+  padding: 20px 0 20px 20px
+
 .sidebar
   width: 300px
   position: fixed
-  right: 30px
-  top: 25px
+  right: 0px
+  top: 100px
+  color: #fff
+  padding-right: 30px
+
+  &__instructions, &__country-name
+    @include white-border
+    font-weight: bold
+    font-size: 1.3em
+    line-height: 25px
+    text-transform: capitalize
+
+  &__stats li
+    @include white-border
+
+  &__stat-value
+    font-size: 1.2em
+
+  &__stat-title
+    display: block
+    font-size: 0.9em
+    font-style: italic
+    margin-top: 5px
+
+  &__jwlink
+    @include white-border
+    @include anchor-reset
+    display: block
+    font-style: italic
+    font-size: 0.9em
+    text-decoration: underline
+    line-height: $lineHeight
+
+  &__nostats
+    @include white-border
+    line-height: $lineHeight
+    & a
+      @include anchor-reset
+      font-style: italic
