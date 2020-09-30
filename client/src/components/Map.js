@@ -58,12 +58,35 @@ const Map = () => {
 
     let globe = svg
       .append("circle")
+      .attr("id", "circle")
       .attr("fill", "#2F84DF")
-      .attr("stroke", "#000")
-      .attr("stroke-width", "0.2")
+      // .attr("stroke", "none")
+      // .attr("stroke-width", "0.2")
       .attr("cx", width / 2)
       .attr("cy", height / 2)
       .attr("r", initialScale);
+
+    //Container for the gradients
+    var defs = svg
+      .append("defs")
+      .attr("fill", "none")
+      .attr("stroke", "#fff");
+
+    // Filter for the  outside glow
+    var filter = defs.append("filter").attr("id", "glow");
+    filter
+      .append("feGaussianBlur")
+      .attr("stdDeviation", "10")
+      .attr("result", "coloredBlur");
+    filter
+      .append("feFlood")
+      .attr("flood-color", "#fff")
+      .attr("result", "color");
+    var feMerge = filter.append("feMerge");
+    feMerge.append("feMergeNode").attr("in", "coloredBlur");
+    feMerge.append("feMergeNode").attr("in", "SourceGraphic");
+
+    d3.selectAll("#circle").style("filter", "url(#glow)");
 
     var rotateTimeout = null;
 
