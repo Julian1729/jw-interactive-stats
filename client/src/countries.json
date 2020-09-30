@@ -1769,13 +1769,7 @@
   {
     "id": "RU",
     "jwURL": "https://www.jw.org/en/jehovahs-witnesses/worldwide/RU/",
-    "name": "Russia",
-    "stats": {
-      "congregations": null,
-      "ministers": null,
-      "population": null,
-      "ratio": null
-    }
+    "name": "Russia"
   },
   {
     "id": "EE",
