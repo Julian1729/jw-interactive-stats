@@ -9,6 +9,9 @@ const App = () => (
     <div className="wrapper">
       <Map />
       <Sidebar />
+      <div className="foreground">
+        <div id="stars"></div>
+      </div>
     </div>
   </CountryProvider>
 );
