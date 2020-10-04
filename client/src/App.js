@@ -2,6 +2,7 @@ import React from "react";
 
 import Map from "./components/Map";
 import Sidebar from "./components/Sidebar";
+import Foreground from "./components/Foreground";
 import { CountryProvider } from "./components/CountryProvider";
 
 const App = () => (
@@ -9,9 +10,7 @@ const App = () => (
     <div className="wrapper">
       <Map />
       <Sidebar />
-      <div className="foreground">
-        <div id="stars"></div>
-      </div>
+      <Foreground />
     </div>
   </CountryProvider>
 );

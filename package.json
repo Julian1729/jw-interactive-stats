@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node ./bin/www"
   },
+  "homepage": ".",
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "d3": "^4.12.2",
