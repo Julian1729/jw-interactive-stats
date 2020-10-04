@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import _ from "lodash";
+import CountUp from "react-countup";
 
 // import countries from "../countries.json";
 import { CountryContext } from "./CountryProvider";
@@ -23,29 +24,28 @@ const Sidebar = () => {
               <ul className="sidebar__stats">
                 <li className="sidebar__ministers">
                   <span className="sidebar__stat-value">
-                    {country.stats &&
-                      country.stats.ministers.toLocaleString("en")}
+                    <CountUp separator={","} end={country.stats.ministers} />
                   </span>
                   <span className="sidebar__stat-title">Ministers</span>
                 </li>
                 <li className="sidebar__congregations">
                   <span className="sidebar__stat-value">
-                    {country.stats &&
-                      country.stats.congregations.toLocaleString("en")}
+                    <CountUp
+                      separator={","}
+                      end={country.stats.congregations}
+                    />
                   </span>
                   <span className="sidebar__stat-title">Congregations</span>
                 </li>
                 <li className="sidebar__populations">
                   <span className="sidebar__stat-value">
-                    {country.stats &&
-                      country.stats.population.toLocaleString("en")}
+                    <CountUp separator={","} end={country.stats.population} />
                   </span>
                   <span className="sidebar__stat-title">Population</span>
                 </li>
                 <li className="sidebar__ratio">
                   <span className="sidebar__stat-value">
-                    1 /{" "}
-                    {country.stats && country.stats.ratio.toLocaleString("en")}
+                    1 / <CountUp separator={","} end={country.stats.ratio} />
                   </span>
                   <span className="sidebar__stat-title">Publisher Ratio</span>
                 </li>
