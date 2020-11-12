@@ -1,12 +1,9 @@
 import React, { useContext, useEffect } from "react";
-// import * as am4core from "@amcharts/amcharts4/core";
-// import * as am4maps from "@amcharts/amcharts4/maps";
-// import am4geodata_worldLow from "@amcharts/amcharts4-geodata/worldLow";
 import _ from "lodash";
-import * as d3 from "d3";
-import * as topojson from "topojson-client";
+import * as d3 from "d3v4";
 import countryCodes from "i18n-iso-countries";
 import enLocale from "i18n-iso-countries/langs/en.json";
+import { default as centerCoordinates } from "@turf/center";
 
 import countries from "../countries.json";
 import { CountryContext } from "./CountryProvider";
@@ -42,9 +39,8 @@ const Map = () => {
 
     let projection = d3
       .geoOrthographic()
-      .scale(250)
-      .center([0, 0])
-      .rotate([0, -30])
+      .scale(234)
+      .rotate([0, 0])
       .translate([width / 2, height / 2]);
 
     const initialScale = projection.scale();
@@ -151,9 +147,20 @@ const Map = () => {
         const countryPaths = map.selectAll("path");
         countryPaths
           .on("click", function(a) {
+            // d3.transition()
+            //   .duration(2000)
+            //   .tween("rotate", function() {
+            //     var r = d3.interpolate(projection.rotate(), [
+            //       ...centerCoordinates(a).geometry.coordinates
+            //     ]);
+            //     console.log(r);
+            //     return function(t) {
+            //       projection.rotate(r(t));
+            //     };
+            //   });
+            let coordinates = centerCoordinates(a).geometry.coordinates;
             if (!a.countryData) {
               console.log(`No data for ${a.properties.name}`);
-              // return console.log(`No data for ${a.properties.name}`);
             }
             rotateTimer.stop();
             // get alpha 2 id
@@ -162,14 +169,10 @@ const Map = () => {
             );
           })
           .on("mouseover", function() {
-            d3.select(this)
-              .attr("opacity", 0.7)
-              .style("stroke-width", 0.5);
+            d3.select(this).attr("opacity", 0.7);
           })
           .on("mouseout", function() {
-            d3.select(this)
-              .attr("opacity", 1)
-              .style("stroke-width", 0.1);
+            d3.select(this).attr("opacity", 1);
           });
       }
     );
