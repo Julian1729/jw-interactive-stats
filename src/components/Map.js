@@ -39,7 +39,7 @@ const Map = () => {
 
     let projection = d3
       .geoOrthographic()
-      .scale(234)
+      .scale(150)
       .rotate([0, 0])
       .translate([width / 2, height / 2]);
 
