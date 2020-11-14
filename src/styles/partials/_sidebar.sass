@@ -1,4 +1,12 @@
 $lineHeight: 1.2em
+$animationDuration: 200
+
+@keyframes fadeIn
+  from
+    opacity: 0
+  to
+    opacity: 1
+
 
 @mixin white-border
   border-left: 2px solid #fff
@@ -28,9 +36,30 @@ $lineHeight: 1.2em
     font-size: 1.3em
     line-height: 25px
     text-transform: capitalize
+    display: table
+
+  &__country-name:not(&__sidebar__country-name--nostats)
+    cursor: pointer
+
+  &__reset-icon
+    height: 0.6rem
+    top: -4px
+    transition: all 300ms
+
+  &__country-name:hover &__reset-icon
+    height: 0.9rem
+    top: -0.1rem
 
   &__stats li
     @include white-border
+    animation-name: fadeIn
+    animation-duration: $animationDuration + ms
+    animation-fill-mode: forwards
+    opacity: 0
+
+  @for $i from 1 through 4
+    .sidebar__stats li:nth-child(#{$i})
+      animation-delay: $animationDuration * $i + ms
 
   &__stat-value
     font-size: 1.2em
@@ -47,8 +76,26 @@ $lineHeight: 1.2em
     display: block
     font-style: italic
     font-size: 0.9em
-    // text-decoration: underline
     line-height: $lineHeight
+    opacity: 0
+    animation: fadeIn $animationDuration + ms forwards 1100ms
+    position: relative
+    // display: table
+
+    &__icon
+      height: 0.7rem
+      position: absolute
+      top: 0
+      bottom: 0
+      margin: auto
+      right: 20px
+      transition: all 300ms
+
+    &:hover
+      font-weight: bold
+
+    &:hover &__icon
+      right: 10px
 
   &__nostats
     @include white-border
@@ -60,15 +107,16 @@ $lineHeight: 1.2em
   &__mobile-arrow
     opacity: 0
 
+  &__reset-icon
+    position: relative
+    font-size: 0.8rem
+
 @media screen and (max-width: 880px)
 
   .sidebar
     top: 20px
     left: 20px
     width: auto
-
-    &__stats li
-      background: #666
 
     & h1
       padding: 10px 0 0 10px
@@ -83,7 +131,7 @@ $lineHeight: 1.2em
       font-size: 1rem
 
     &__stats li, &__jwlink
-    border-left: none
+      background: rgba(0,0,0,0.5)
 
     &__mobile-arrow
       opacity: 1
